@@ -1,0 +1,18 @@
+name = "ada_raycaster"
+description = ""
+version = "0.1.0-dev"
+
+authors = ["Sabian Hett"]
+maintainers = ["Sabian Hett <swirlface09@gmail.com>"]
+maintainers-logins = ["SabeDoesThings"]
+licenses = "MIT OR Apache-2.0 WITH LLVM-exception"
+website = ""
+tags = []
+
+executables = ["ada_raycaster"]
+
+[[depends-on]]
+sdlada = "^2.5.124"
+
+[[pins]]
+sdlada = { url='https://github.com/ada-game-framework/sdlada.git' }
