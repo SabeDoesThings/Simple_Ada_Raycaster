@@ -2,5 +2,6 @@
 a simple raycaster I made in the Ada programming language using [sdlada](https://github.com/ada-game-framework/sdlada)
 
 
-https://github.com/user-attachments/assets/e70bbd18-783b-431f-bb7f-d905edcdd2a7
+
+https://github.com/user-attachments/assets/18b687bf-df1b-4799-b02f-b0710d0446df
 
